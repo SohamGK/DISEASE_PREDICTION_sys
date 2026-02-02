@@ -1,4 +1,4 @@
-# DPsys
+# DISEASE PREDICTION SYSTEM
 
 A machine learning-based web application that predicts multiple diseases like diabetes, heart disease, liver disease, kidney disease, Parkinson’s, and others based on user inputs. Built using Flask and pre-trained models, the app provides a simple interface for users to get quick health predictions based on symptoms or health metrics.
 
